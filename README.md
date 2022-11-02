@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2>✨ Obrigada por estar aqui!</h2>
+
+
+👩‍💻 Estudando para me tornar uma desenvolvedora FullStack <br>
+
+
+
+
 
 <!--
 **tamonise/tamonise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
