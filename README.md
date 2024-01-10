@@ -1,7 +1,7 @@
 <h2>✨ Obrigada por estar aqui!</h2>
 
 
-👩‍💻 Estudando para me tornar uma desenvolvedora FullStack <br>
+👩‍💻 Estudando para me tornar uma Cientista de Dados <br>
 
 
 
